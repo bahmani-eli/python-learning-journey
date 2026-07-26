@@ -1,7 +1,7 @@
 # Day 001
 
 Date:
-10 July 2026
+9 July 2026
 
 ## What I learned
 

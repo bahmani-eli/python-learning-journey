@@ -4,4 +4,4 @@ def Hello(to="world"):
 #say hello
 Hello()
 name=input("whats your name?").strip().title()
-Hello(name)   
+Hello(name)
